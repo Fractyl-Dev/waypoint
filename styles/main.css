@@ -129,22 +129,25 @@ a.featureButton:hover {
 		width: 40%;
 		position: absolute;
 		top: 0;
-		right: -30%;
+		right: -15%;
 	}
 	.w-banner-info {
-		margin-right: 20%;
-		width: 80%;
+		margin-right: 35%;
+		width: 60%;
 	}
 }
 @media screen and (max-width: 600px) {
 	.w-banner-overlay h2{
-		font-size: 1rem;
+		font-size: 1.15rem;
 	}
 	.w-banner-overlay h5 {
-		font-size: 0.75rem;
+		font-size: 0.875rem;
+	}
+	.w-banner-overlay .text-small {
+		font-size: 0.6rem;
 	}
 	.w-banner-spacer {
-		height: 0;
+		height: 10vw;
 	}
 	.w-slider-mobile {
 		position: relative;
@@ -165,11 +168,6 @@ a.featureButton:hover {
 	.w-phone-tabs .spacer.small {
 		height: 15px;
 	}
-	/*.phone-tab {*/
-	/*	width: 60%;*/
-	/*	position: absolute;*/
-	/*	left: -20%;*/
-	/*}*/
 	
 	.slider-info h5 {
 		font-size: 1rem;
