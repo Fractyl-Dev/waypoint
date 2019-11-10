@@ -138,10 +138,10 @@ a.featureButton:hover {
 }
 @media screen and (max-width: 600px) {
 	.w-banner-overlay h2{
-		font-size: 1.25rem;
+		font-size: 1rem;
 	}
 	.w-banner-overlay h5 {
-		font-size: 1rem;
+		font-size: 0.75rem;
 	}
 	.w-banner-spacer {
 		height: 0;
