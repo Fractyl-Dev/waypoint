@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<title>Waypoint Communication: The Next Step in Talking to Those Around You</title>
+		<link rel = "stylesheet" type = "text/css" href = "https://cdn.jsdelivr.net/gh/HunterBall/fresh@1.0.2/fresh.min.css">
+		<link rel = "stylesheet" type = "text/css" href = "styles/main.css">
+		<link rel = "stylesheet" type = "text/css" href = "styles/animate.css">
+		<link rel = "shortcut icon" type = "image/png" href = "images/icons/map.png">
+		<style>
+			:root {
+				--color-accent: #5bb8b5;
+				--text-accent: #ffffff;
+				--color-secondary: #ffffff;
+				--text-secondary: #404040;
+				--footer-text: #ffffff;
+				--footer-color: var(--color-accent);
+			}
+		</style>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"><!--Viewport Meta Tag-->
+		<meta name="revised" content="Saturday, November 9th, 2019, 6:52pm"/><!--CHANGE THIS EVERYTIME-->
+		<meta name="keywords" content="Waypoint, Communication, Social Media, iPhone, notes"/>
+		<meta name="subject" content="Waypoint Communication">
+		<meta name="copyright" content="FractylDev">
+		<meta name="robots" content="index,follow"/>
+		<meta name="author" content="Hunter Ball & FractylDev">
+		<meta name="designer" content="Hunter Ball">
+		<meta name="owner" content="FractylDev">
+		<meta name="url" content="http://waypoint.fractyldev.com/index.html">
+		<meta name="revisit-after" content="1 Month">
+	</head>
+	<body>
+		<div class = "nav top primary shadow no-mobile" style = "--nav-text-hover: #5bb8b5;">
+			<a href = "index.html"><img class = "icon" style = "height: 1,5rem; margin: 10px 20px" src = "images/logotype.png"></a>
+			<a class = "item active" href = "index.html">Home</a>
+			<a class = "item coming-soon" href = "about.html">About</a>
+			<a class = "item coming-soon" href = "support/index.html">Support</a>
+			<a class = "item" href = "support/terms.html">Terms of Service</a>
+			<a class = "item" href = "support/privacy.html">Privacy Policy</a>
+			<a class = "item" href = "testFlight.html">TestFlight</a>
+		</div>
+		<div class = "nav mobile">
+			<a class = "nav-trigger">&#9776;</a>
+			<a class = "title">Waypoint Communication</a>
+		</div>
+		<div class = "mobile-only nav side">
+			<a class = "title"><img src = "images/logotype.png" style = "height: 40px; margin-top: 11.25px;"></a>
+			<a class = "item" href = "index.html">Home</a>
+			<a class = "item coming-soon" href = "about.html">About</a>
+			<a class = "item coming-soon" href = "support/index.html">Support</a>
+			<a class = "item" href = "support/terms.html">Terms & Conditions</a>
+			<a class = "item" href = "support/privacy.html">Privacy Policy</a>
+			<a class = "item" href = "testFlight.html">TestFlight</a>
+			<p class = "copyright text-small">Copyright &copy; 2019 Fractyl Development LLC</p>
+		</div>
+		<div class = "main nav-top">
+			<div class = "w-banner">
+				<picture class = "w-banner-image">
+					<source media="(min-width: 800px)" srcset="images/banner-desktop.png">
+  				<source media="(min-width: 300px)" srcset="images/banner-mobile.png">
+  				<img src="images/banner-desktop.png" alt="Bustling City Background" style="width:100%; height: auto;">
+				</picture>
+				<div class = "w-banner-overlay">
+					<img class = "w-banner-phone right m-full animated fadeInUp" src = "images/banner-phone.png">
+					<div class = "w-banner-info right m-full animated fadeInLeft">
+						<div class = "w-banner-spacer"></div>
+						<h2 class = "text-left">Thank you for your interest in Waypoint Communication!</h2>
+						<h5 class = "text-left"><span class = "no-mobile">Waypoint Communication is a platform for anyone to share what is going on around them. From local events to safety concerns, Waypoint Communication allows you to share exactly where these events are occuring. You can create notes containing text, images, drawings, and links that will be pinned to your current location. After 24 hours these notes will automatically disappear ensuring that the map is always current. Don’t worry though, you can save the notes you want to view later! Waypoint Communication allows for information to be spread throughout the world and brings communities together.
+</span></h5>
+						<div class = "clear"></div>
+						<a class = "coming-soon" href = "play.google.com">
+							<img class = "store-icon right" src = "images/play-store-black.png">
+						</a>
+						<a class = "coming-soon" href = "apple.com">
+							<img class = "store-icon right" src = "images/app-store-black.svg">
+						</a>
+						<div class = "clear"></div>
+						<br><p class = "text-right text-small">Waypoint Communication will be available soon for all modern iOS devices and later for Android devices.</p>
+					</div>
+				</div>
+			</div>
+      </body>
+    </html>
+      
